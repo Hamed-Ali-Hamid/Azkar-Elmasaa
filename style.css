@@ -120,10 +120,10 @@ body {
 }
 
 footer {
-    background-color: #333;
-    color: white;
     text-align: center;
-    padding: 10px;
+    padding: 10px 0;
+    background-color: #13865a;
+    color: white;
     margin-top: auto; /* يدفع البادئة إلى الأسفل */
     width: 100%;
 }
